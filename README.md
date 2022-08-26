@@ -1,9 +1,14 @@
+<div align="center">
+
+<h1>🌎 Awesome Event Patterns</h1>
+
+<hr />
+
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/3268013/186894411-e5c1b1dd-dbed-49db-bac4-dbd7c7ab0964.png">
 
+  <h3>Collection of links, videos and things to help with your event-driven architecture event design and patterns.</h3>
 
-# Awesome Event Patterns 🚀
-
-Collection of links, videos and things to help with event architecture event patterns.
+</div>
 
 Contributions welcome!
 
