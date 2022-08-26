@@ -7,10 +7,13 @@
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/3268013/186894411-e5c1b1dd-dbed-49db-bac4-dbd7c7ab0964.png">
 
   <h3>Collection of links, videos and things to help with your event-driven architecture event design and patterns.</h3>
+  
+  <h4>Contributions welcome!</h4>
 
 </div>
 
-Contributions welcome!
+<hr />
+
 
 ## Table of Contents
 
