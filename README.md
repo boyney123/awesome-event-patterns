@@ -16,6 +16,8 @@ Contributions welcome!
 
 - [Message Naming Guidelines](https://www.youtube.com/watch?v=EmtOB2XexJI&t=478s) - Derek Comartin gives a great video and walkthough on naming guidelines for events.
 
+- [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0&t=217s) - Timeless classic from Martin Fowler as he goes into event patterns, examples and tradeoffs.
+
 
 ## Written resources
 
@@ -37,6 +39,6 @@ Contributions welcome!
 - [The Event-Carried State Transfer pattern](https://itnext.io/the-event-carried-state-transfer-pattern-aae49715bb7f) - Another great read by Oskar uit de Bos, as he gives into the ECST pattern and highlights the good, bad and ugly.
 
 
-- [https://www.gokhan-gokalp.com/en/how-should-my-event-be-designed-some-thoughts-on-event-based-systems/](https://www.gokhan-gokalp.com/en/how-should-my-event-be-designed-some-thoughts-on-event-based-systems/) - Gökhan Gökalp gives us his thoughts on Event-Based systems and designs for our events.
+- [How Should My Event Be Designed? Some Thoughts on Event-Based Systems](https://www.gokhan-gokalp.com/en/how-should-my-event-be-designed-some-thoughts-on-event-based-systems/) - Gökhan Gökalp gives us his thoughts on Event-Based systems and designs for our events.
 
 
