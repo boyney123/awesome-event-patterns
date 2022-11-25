@@ -53,3 +53,5 @@
 - [How Should My Event Be Designed? Some Thoughts on Event-Based Systems](https://www.gokhan-gokalp.com/en/how-should-my-event-be-designed-some-thoughts-on-event-based-systems/) - Gökhan Gökalp gives us his thoughts on Event-Based systems and designs for our events.
 
 - [Event Collaboration And Event Sourcing](https://www.reactivesystems.eu/2022/06/09/event-collaboration-event-sourcing.html) - Lutz Hühnken looks at some event-driven architecture terminology that is often used very liberally, and provides a clear distinction.
+
+- [Introduction to Designing Events and Event Streams](https://developer.confluent.io/learn-kafka/event-design/intro/) - Adam Bellemare gives us a great guide and detailed walkthrough of event streams and event design patterns.
