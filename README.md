@@ -21,6 +21,9 @@
 - [Written resources](#written-resources)
 
 ## Videos
+
+- [Event First Thinking by David Boyne](https://www.youtube.com/watch?v=GBzr48Mj2JU) - Talk from David Boyne as he goes through the importance of event-design and event first thinking. What event types are there? Why should you care? What are the tradeoffs? Learn in this talk.
+
 - [DDD Europe 2020 Keynote by Udi Dahan](https://www.youtube.com/watch?v=-iuMjjKQnhg&t=2485s) - Udi Dahan gives a great talk about DDD and also goes into event patterns talking about internal and external events within your domains.
 
 - [Events Everywhere! Different Type of Events in a Distributed System](https://www.youtube.com/watch?v=PJPxdl-1ucg) - Great talk with James Hickey and Derek Comartin as they talk about types of events in distributed systems.
