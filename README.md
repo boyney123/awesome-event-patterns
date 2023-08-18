@@ -28,9 +28,9 @@
 
 - [Events Everywhere! Different Type of Events in a Distributed System](https://www.youtube.com/watch?v=PJPxdl-1ucg) - Great talk with James Hickey and Derek Comartin as they talk about types of events in distributed systems.
 
-- [Message Naming Guidelines](https://www.youtube.com/watch?v=EmtOB2XexJI&t=478s) - Derek Comartin gives a great video and walkthough on naming guidelines for events.
+- [Message Naming Guidelines](https://www.youtube.com/watch?v=EmtOB2XexJI) - Derek Comartin gives a great video and walkthough on naming guidelines for events.
 
-- [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0&t=217s) - Timeless classic from Martin Fowler as he goes into event patterns, examples and tradeoffs.
+- [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) - Timeless classic from Martin Fowler as he goes into event patterns, examples and tradeoffs.
 
 
 ## Written resources
