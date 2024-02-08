@@ -32,6 +32,8 @@
 
 - [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) - Timeless classic from Martin Fowler as he goes into event patterns, examples and tradeoffs.
 
+- [CloudEvents And Beyond!] - Doug Davis from Microsoft dives into CloudEvents for us and what is beyond them. This is a great talk to get more understanding of CloudEvents, standards and what the industry is trying to do to help us govern our EDA design and discoverability.
+
 
 ## Written resources
 
