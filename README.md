@@ -60,3 +60,5 @@
 - [Event Collaboration And Event Sourcing](https://www.reactivesystems.eu/2022/06/09/event-collaboration-event-sourcing.html) - Lutz Hühnken looks at some event-driven architecture terminology that is often used very liberally, and provides a clear distinction.
 
 - [Introduction to Designing Events and Event Streams](https://developer.confluent.io/learn-kafka/event-design/intro/) - Adam Bellemare gives us a great guide and detailed walkthrough of event streams and event design patterns.
+
+- [EventBridge best practice: why you should wrap events in event envelopes](https://theburningmonk.com/2024/11/eventbridge-best-practice-why-you-should-wrap-events-in-event-envelopes/) - Using AWS and EventBridge? Yan Cui gives us a blog post on why you should wrap events in event envelopes, Sheen Brisials has also given thoughts [about this in the past too, which can help](https://sbrisals.medium.com/the-power-of-amazon-eventbridge-is-in-its-detail-92c07ddcaa40), and if you still want more [Dave Boyne has some thoughts](https://www.boyney.io/blog/2022-02-11-event-payload-patterns).
