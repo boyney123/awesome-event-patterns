@@ -34,6 +34,8 @@
 
 - [CloudEvents And Beyond!](https://www.youtube.com/watch?v=bJTUttZr-Ck) - Doug Davis from Microsoft dives into CloudEvents for us and what is beyond them. This is a great talk to get more understanding of CloudEvents, standards and what the industry is trying to do to help us govern our EDA design and discoverability.
 
+- [Complexity is the Gotcha of event-driven architecture](https://youtu.be/VLUvfIm9wnQ?si=MgXfslSNr7BVsYSA&t=1677) - Talk by Dave Boyne on how complexity creeps on you with event-driven architecture. This timestamp covers event evolution strategy options, and also one thing you might want to consider which is [Postel Law](https://en.wikipedia.org/wiki/Robustness_principle)
+
 
 ## Written resources
 
